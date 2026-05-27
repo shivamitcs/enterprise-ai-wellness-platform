@@ -11,6 +11,10 @@
 
 Enterprise-grade AI-powered wellness platform built with MEAN stack and React Native/Expo, designed for personalized yoga experiences, wellness analytics, guided sessions, AI-assisted recommendations, and scalable cross-platform health-tech workflows.
 
+<p align="center">
+  <img src="./assets/banner/ai-yoga-instructor-banner.png" width="100%" alt="AI Yoga Instructor Banner"/>
+</p>
+
 ---
 
 ## Platform Highlights
