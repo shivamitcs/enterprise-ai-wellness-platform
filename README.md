@@ -155,6 +155,12 @@ D --> H
 
 ---
 
+<p align="center">
+  <img src="./assets/architecture/system-architecture.png" width="100%" alt="System Architecture Diagram"/>
+</p>
+
+---
+
 # 📸 Platform Preview
 
 Modern AI-powered wellness dashboards and guided digital experiences designed for scalable cross-platform wellness engagement.
