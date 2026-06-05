@@ -508,5 +508,3 @@ OPENAI_API_KEY=your_openai_api_key
 This repository is intended for platform showcase, architecture presentation, and engineering demonstration purposes.
 
 Copyright © 2026 SHIVAM ITCS
-
----
