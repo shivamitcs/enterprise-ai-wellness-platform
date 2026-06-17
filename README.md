@@ -13,7 +13,7 @@ Enterprise-grade AI-powered wellness platform built with MEAN stack and React Na
 
 <p align="center">
   <img src="./assets/banner/ai-yoga-instructor-banner.png" width="100%" alt="AI Yoga Instructor Banner"/>
-</p>
+</p> 
 
 ---
 
