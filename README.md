@@ -17,7 +17,7 @@ Enterprise-grade AI-powered wellness platform built with MEAN stack and React Na
 
 ---
 
-## Platform Highlights
+## Platform Highlights 
 
 - AI-powered personalized yoga routines
 - Cross-platform wellness ecosystem
